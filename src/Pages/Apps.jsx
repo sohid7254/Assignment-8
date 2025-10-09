@@ -21,15 +21,15 @@ const Apps = () => {
 
     return (
         <div className="max-w-[1200px] mx-auto">
-            <div className="text-center my-6 space-y-2">
-                <h1 className="text-3xl font-bold">Our All Applications</h1>
+            <div className="text-center my-6 space-y-2 px-3">
+                <h1 className="md:text-3xl lg:text-3xl text-2xl font-bold">Our All Applications</h1>
                 <p className="text-sm font-semibold text-gray-500">Explore All Apps on the Market developed by us.We code for millions</p>
             </div>
             <div className="flex justify-between items-center px-4">
-                <h1 className="text-xl font-semibold">
+                <h1 className="md:text-xl text-sm font-semibold">
                     <span>({searchedApps.length})</span>Apps Found
                 </h1>
-                <label className="input">
+                <label className="input w-50 md:w-70">
                     <svg className="h-[1em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                         <g strokeLinejoin="round" strokeLinecap="round" strokeWidth="2.5" fill="none" stroke="currentColor">
                             <circle cx="11" cy="11" r="8"></circle>
@@ -39,7 +39,7 @@ const Apps = () => {
                     <input value={search} onChange={(e) => setSearch(e.target.value)} type="search" placeholder="Search App" />
                 </label>
             </div>
-            <div className=" grid grid-cols-1 md:grid--cols-3 lg:grid-cols-4 gap-4 p-3 my-4">
+            <div className=" grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4 p-3 my-4">
                 {searchedApps.map((app) => (
                     <AppsCard key={app.id} app={app}></AppsCard>
                 ))}

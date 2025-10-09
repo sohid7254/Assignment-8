@@ -14,7 +14,7 @@ const Home = () => {
             <Banner />
             <HeroState />
             <div>
-                <div className="text-center space-y-3 my-6">
+                <div className="text-center space-y-3 my-6 px-3">
                     <h1 className="text-4xl font-semibold">Trending Apps</h1>
                     <p className="text-sm text-gray-400">Explore All Trending Apps on the Market developed by Us</p>
                 </div>
