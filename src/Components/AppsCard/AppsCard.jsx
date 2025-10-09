@@ -2,14 +2,16 @@ import React from 'react';
 import Demo from "../../assets/demo-app (1).webp"
 import ratIcon from "../../assets/icon-ratings.png"
 import downIcon from "../../assets/icon-downloads.png"
+import { Link } from 'react-router';
 
 
 const AppsCard = ({app}) => {
-    const { image, title, downloads, ratingAvg } = app;
+    const { image, title, downloads, ratingAvg, id } = app;
     return (
+    <Link to={`/appDetails/${id}`}>
         <div className=" rounded-lg shadow-md overflow-hidden border border-gray-200 hover:shadow-lg transition-shadow duration-300 p-3">
             <div>
-                <img src={Demo} alt="" className="overflow-hidden object-cover w-full h-[250px] rounded-lg" />
+                <img src={image} alt="" className="overflow-hidden object-cover w-full h-[250px] rounded-lg" />
             </div>
 
             <div className="">
@@ -26,6 +28,7 @@ const AppsCard = ({app}) => {
                 </div>
             </div>
         </div>
+    </Link>
     );
 };
 

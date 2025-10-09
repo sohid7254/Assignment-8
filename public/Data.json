@@ -1,363 +1,558 @@
 [
-  {
-    "id": 1,
-    "title": "Airtable",
-    "companyName": "Airtable, Inc.",
-    "image": "/images/airtable.png",
-    "size": "165MB",
-    "reviews": "180K",
-    "downloads": "15M",
-    "ratingAvg": 4.5,
-    "ratings": [
-      { "name": "1 star", "count": 1000 },
-      { "name": "2 star", "count": 2500 },
-      { "name": "3 star", "count": 6000 },
-      { "name": "4 star", "count": 14000 },
-      { "name": "5 star", "count": 68000 }
-    ],
-    "description": "Airtable successfully bridges the gap between the familiar simplicity of a **spreadsheet** and the powerful complexity of a **relational database**. It offers a dynamic, visual workspace that allows teams to manage content, projects, and complex workflows without requiring deep technical expertise. The core strength of Airtable lies in its **flexible structure**: data is organized into 'Bases,' which contain 'Tables.' Unlike traditional spreadsheets, these tables can link to each other, allowing for rich data relationships—meaning a 'Project' record can link directly to 'Team Member' records and 'Asset' records, creating a unified, interconnected data model. This relational capability makes it an ideal tool for everything from **inventory tracking** and **CRM** to **editorial calendars** and **creative production management**.\n\nAirtable goes far beyond simple data entry with its diverse **View Types**. Users can instantly transform their data from a standard Grid (spreadsheet view) into a visual **Kanban board** to track progress, a **Calendar view** for scheduling, a **Gallery view** for showcasing creative assets, or a **Gantt chart** for project timelines. This flexibility allows different team members to interact with the same data in the format most relevant to their work. Furthermore, the platform is bolstered by powerful **Automation** capabilities. Teams can define rules to automatically send emails, update records, move tasks between stages, or integrate with third-party services like Slack or Jira, all without writing code. The **'Airtable Apps' Marketplace** extends functionality even further, offering tools like chart builders, scripting interfaces, and data visualization blocks. Coupled with a vast library of **pre-built templates** for almost every industry and use case, Airtable empowers non-developers to build highly customized, enterprise-grade applications quickly. It truly transforms the way modern teams organize information, ensuring clarity, collaboration, and control across every project."
-  },
-  {
-    "id": 2,
-    "title": "Obsidian",
-    "companyName": "Obsidian MD, Inc.",
-    "image": "/images/obsidian.png",
-    "size": "140MB",
-    "reviews": "120K",
-    "downloads": "10M",
-    "ratingAvg": 4.9,
-    "ratings": [
-      { "name": "1 star", "count": 500 },
-      { "name": "2 star", "count": 1000 },
-      { "name": "3 star", "count": 2000 },
-      { "name": "4 star", "count": 9000 },
-      { "name": "5 star", "count": 55000 }
-    ],
-    "description": "Obsidian is a powerful, innovative note-taking and **knowledge management application** that champions the philosophy of **'Your data, your control.'** Unlike cloud-based competitors, Obsidian operates entirely on **local Markdown files** stored directly on the user's device, ensuring maximum privacy, ownership, and incredibly fast performance. This unique local-first architecture makes it the tool of choice for academics, writers, developers, and anyone dedicated to building a comprehensive and future-proof personal knowledge base.\n\nThe app's defining feature is its approach to **linking notes**, which is inspired by the **Zettelkasten** methodology. By surrounding words with double brackets `[[like this]]`, users can create automatic, bi-directional links between notes. This process transforms a collection of disparate notes into a cohesive, interconnected **'personal knowledge graph.'** The stunning **Graph View** is a visual representation of this network, allowing users to see how all their ideas, projects, and thoughts are connected, often leading to unexpected discoveries and creative breakthroughs. This graphical mapping aids in deep thinking and complex idea organization.\n\nObsidian's functionality is exponentially expanded by its vast ecosystem of **Community Plugins**. Users can install plugins to add features like integrated task management, spaced repetition learning (flashcards), sophisticated data views (DataView), and seamless integration with external tools. The app is highly **customizable**, supporting CSS themes that radically alter the look and feel, allowing users to craft an environment perfectly suited to their working style. Furthermore, the concept of **Workspaces** allows users to save specific pane layouts for different activities (e.g., 'Writing Mode' or 'Research Mode'). Obsidian is truly designed to be a second brain, empowering users to not just take notes, but to **think, write, and organize information** more effectively by mimicking the web of connections found in the human mind. The commitment to privacy, offline access, and community-driven development has solidified its status as a top-tier tool for serious knowledge workers."
-  },
-  {
-    "id": 3,
-    "title": "Figma",
-    "companyName": "Figma, Inc.",
-    "image": "/images/figma.png",
-    "size": "190MB",
-    "reviews": "110K",
-    "downloads": "9M",
-    "ratingAvg": 4.7,
-    "ratings": [
-      { "name": "1 star", "count": 1200 },
-      { "name": "2 star", "count": 1800 },
-      { "name": "3 star", "count": 5000 },
-      { "name": "4 star", "count": 60000 },
-      { "name": "5 star", "count": 70000 }
-    ],
-    "description": "Figma has revolutionized the world of **digital design**, establishing itself as the industry standard for **UI/UX design, prototyping, and collaboration**. Its primary breakthrough was being a **browser-based** tool that supports real-time, simultaneous multi-user collaboration—a feature that had been sorely lacking in desktop-bound competitors. This architecture transforms the design process from a sequential handover to a live, collective effort, allowing designers, developers, and stakeholders to work together in the same file at the same time, much like Google Docs for design.\n\nAt its core, Figma offers a comprehensive set of vector-based design tools tailored for creating scalable and precise digital interfaces. Its **Auto Layout** feature is a game-changer, allowing designers to create components that automatically resize and reflow based on their content, leading to much more efficient and developer-friendly design systems. The integrated **Prototyping** toolset is equally powerful, enabling designers to link screens and simulate user flows with sophisticated interactions, animations, and transitions. This allows for rigorous testing and validation of the user experience before any code is written. The **Inspect Panel** is specifically designed for developers, providing instant CSS, iOS, and Android code snippets for all design elements, drastically reducing the friction between design and engineering teams.\n\nFigma's ecosystem is further enriched by **FigJam**, a companion whiteboard tool integrated within the platform, ideal for brainstorming, flow-charting, and running design sprints. The concept of **Design Systems** is deeply embedded, with features like **Components** and **Variants** that allow teams to build and maintain a single source of truth for all reusable elements. This ensures consistency across massive projects and accelerates the design process exponentially. The **Community** is another massive asset, providing thousands of free plugins, widgets, and templates that extend Figma's capabilities far beyond its core features. From a small startup building its first app to a large enterprise managing a complex product suite, Figma is the indispensable tool for turning ideas into pixel-perfect, interactive digital products."
-  },
-  {
-    "id": 4,
-    "title": "Duolingo",
-    "companyName": "Duolingo, Inc.",
-    "image": "/images/duolingo.png",
-    "size": "210MB",
-    "reviews": "12M",
-    "downloads": "500M",
-    "ratingAvg": 4.7,
-    "ratings": [
-      { "name": "1 star", "count": 150000 },
-      { "name": "2 star", "count": 250000 },
-      { "name": "3 star", "count": 500000 },
-      { "name": "4 star", "count": 1500000 },
-      { "name": "5 star", "count": 80043000 }
-    ],
-    "description": "Duolingo is the world's most popular and downloaded application for **language learning**, pioneering the use of **gamification** to make educational content engaging, accessible, and highly addictive. With over 40 languages offered, ranging from Spanish and French to high-demand languages like Japanese and unique offerings like High Valyrian, Duolingo has made language acquisition a global phenomenon. The core methodology breaks down complex linguistic concepts into short, bite-sized lessons that focus on vocabulary, grammar, listening comprehension, and speaking practice.\n\nThe application is meticulously designed around **game mechanics**. Users earn **Experience Points (XP)** for completing lessons, maintain **Streaks** (consecutive days of practice) to build habits, compete in weekly **Leaderboards** with friends and strangers, and earn virtual **Gems** to spend on in-app items. This gamified approach leverages principles of behavioral economics to motivate users to return daily, transforming the often tedious process of language study into a fun, competitive ritual. Duolingo's mascot, **Duo the owl**, has become a global icon, humorously representing the app's persistent nudges to keep up with daily lessons.\n\nBeyond basic lessons, the app incorporates several advanced features to deepen learning. **Stories** offer short, interactive dialogues to practice reading comprehension and context. **Lessons** are adaptive, meaning the content adjusts in real-time based on the user's performance, focusing on areas where the student struggles most. The platform also employs a sophisticated **AI-driven personalization** layer that optimizes the learning path for efficiency. For users committed to serious language mastery, the app offers the **Duolingo English Test (DET)**, an affordable, convenient, and accepted alternative to traditional standardized tests like TOEFL and IELTS. Duolingo's mission is to make high-quality language education universally available, and its proven ability to blend education with entertainment has made it a category leader in ed-tech."
-  },
-  {
-    "id": 5,
-    "title": "Notion",
-    "companyName": "Notion Labs, Inc.",
-    "image": "/images/notion.png",
-    "size": "155MB",
-    "reviews": "200K",
-    "downloads": "20M",
-    "ratingAvg": 4.6,
-    "ratings": [
-      { "name": "1 star", "count": 2000 },
-      { "name": "2 star", "count": 3000 },
-      { "name": "3 star", "count": 7000 },
-      { "name": "4 star", "count": 18000 },
-      { "name": "5 star", "count": 105000 }
-    ],
-    "description": "Notion is hailed as the **all-in-one workspace** for notes, tasks, wikis, and databases, defining a new category of **modular productivity software**. It operates on the core principle of 'everything is a block,' allowing users to combine text, images, tables, code snippets, to-do lists, and embedded media onto a single page. This **highly flexible, block-based editor** allows individuals and teams to structure information in countless ways, replacing a scattered collection of specialized apps (like document editors, spreadsheets, and project managers) with one unified tool.\n\nThe platform's power comes from its ability to create **Relational Databases**. These databases can be displayed in multiple formats—as a Kanban board, calendar, list, gallery, or traditional table—and records can be linked across different pages. This functionality enables users to build incredibly sophisticated, interconnected systems, such as a **company wiki** linked to a **project tracker** which in turn is linked to individual **task lists**. This interconnectedness ensures that information is never siloed, promoting organizational transparency and efficiency.\n\n**Collaboration and sharing** are seamless within Notion. Users can share pages, workspaces, or entire databases with granular control over viewing, editing, and commenting permissions. This makes it an excellent tool for remote teams, product managers, and educational institutions. Notion also boasts a massive and dedicated community that shares thousands of free, complex **templates** for everything from financial tracking and habit building to complex engineering roadmaps. The recent introduction of **Notion AI** further extends its utility, allowing users to automatically summarize documents, brainstorm ideas, draft content, and automatically fill out database properties. Notion is essentially a digital LEGO set for organization, providing the tools to build a custom system that perfectly matches any user's or team's unique workflow and information architecture, fostering a sense of structure and control over the digital workspace."
-  },
-  {
-    "id": 6,
-    "title": "Canva",
-    "companyName": "Canva Pty Ltd",
-    "image": "/images/canva.png",
-    "size": "180MB",
-    "reviews": "4.5M",
-    "downloads": "300M",
-    "ratingAvg": 4.9,
-    "ratings": [
-      { "name": "1 star", "count": 25000 },
-      { "name": "2 star", "count": 50000 },
-      { "name": "3 star", "count": 100000 },
-      { "name": "4 star", "count": 400000 },
-      { "name": "5 star", "count": 3300000 }
-    ],
-    "description": "Canva has democratized design, making professional-quality graphics and visual content creation accessible to **everyone**, regardless of their technical design skills. It is the leading online platform for creating social media graphics, presentations, posters, documents, and other visual materials. The app’s success is built upon its intuitive **drag-and-drop interface** and its massive, constantly updated library of resources, fundamentally changing how non-designers interact with visual media.\n\nThe heart of Canva is its vast collection of **over 600,000 professional templates**. These templates cover every conceivable use case—from Instagram stories and YouTube thumbnails to business cards, complex infographics, and multi-page reports. This allows users to start with a high-quality foundation and simply customize the text, colors, and images, drastically reducing the time and skill required to produce polished work. The **Brand Kit** feature is essential for businesses, allowing them to store their company colors, fonts, and logos, ensuring **brand consistency** across all created materials with a single click.\n\nBeyond static design, Canva is a powerful tool for **motion graphics and video editing**. Users can animate elements, create short video clips, and edit footage with the same easy-to-use interface. The platform also offers advanced features such as **Magic Resize**, which instantly adapts a design to different platform dimensions (e.g., changing a Facebook post to a Twitter header), and **Background Remover**, an AI-powered tool that cleanly isolates subjects in photos. Furthermore, the collaboration features allow teams to co-design in real-time, leave comments, and manage content approval workflows. Canva has evolved from a simple graphic design tool into a full **visual communication platform**, providing the necessary tools and assets for marketers, small business owners, educators, and students to effectively convey their message in a visually saturated digital world."
-  },
-  
-  {
-    "id": 7,
-    "title": "Microsoft Teams",
-    "companyName": "Microsoft Corporation",
-    "image": "/images/msteams.png",
-    "size": "350MB",
-    "reviews": "1.2M",
-    "downloads": "400M",
-    "ratingAvg": 4.3,
-    "ratings": [
-      { "name": "1 star", "count": 80000 },
-      { "name": "2 star", "count": 120000 },
-      { "name": "3 star", "count": 200000 },
-      { "name": "4 star", "count": 300000 },
-      { "name": "5 star", "count": 500000 }
-    ],
-    "description": "Microsoft Teams is the definitive **collaboration and communication platform** for the modern workplace, seamlessly integrating chat, video conferencing, file storage, and application integration into a single, unified hub. As a core component of the Microsoft 365 suite, its primary strength lies in its **deep connectivity** with all Microsoft products, including Word, Excel, PowerPoint, SharePoint, and OneNote. This integration allows teams to work on documents simultaneously, initiate meetings directly from a calendar entry, and access cloud files without ever leaving the Teams interface.\n\nThe platform is structured around **'Teams' and 'Channels,'** which serve as dedicated spaces for different projects, departments, or topics. Channels support persistent, threaded conversations, eliminating the confusion often associated with email chains. The **Meeting** functionality is robust, supporting high-definition video and audio calls, screen sharing, live captioning, background effects, and **Microsoft Copilot** integration for real-time meeting summaries and action item generation. Furthermore, the platform's **Calling** features can often replace traditional office phone systems, offering voice over IP (VoIP) capabilities, call queues, and auto-attendants.\n\n**File management** is simplified through its connection to SharePoint and OneDrive, allowing secure storage and easy sharing of documents with version control. Teams’ true power, however, is realized through its extensive **App Ecosystem**. Organizations can integrate thousands of third-party applications (like Jira, Trello, Salesforce, and custom line-of-business apps) directly into channels and meetings using **Tabs, Bots, and Connectors**. This capability transforms Teams from a communication tool into a flexible **Digital Operating System** for the entire enterprise. With enterprise-grade security, comprehensive compliance features (including eDiscovery and legal hold), and multi-factor authentication, Microsoft Teams provides a secure, scalable, and versatile environment that enables global workforces to remain connected and productive, regardless of their physical location."
-  },
-  {
-    "id": 8,
-    "title": "Headspace",
-    "companyName": "Headspace Health, Inc.",
-    "image": "/images/headspace.png",
-    "size": "110MB",
-    "reviews": "900K",
-    "downloads": "50M",
-    "ratingAvg": 4.8,
-    "ratings": [
-      { "name": "1 star", "count": 10000 },
-      { "name": "2 star", "count": 15000 },
-      { "name": "3 star", "count": 30000 },
-      { "name": "4 star", "count": 100000 },
-      { "name": "5 star", "count": 700000 }
-    ],
-    "description": "Headspace is a globally renowned application dedicated to improving **mental well-being** through the practice of **mindfulness and meditation**. Founded on clinically validated techniques, the app takes a secular, accessible approach to helping users manage stress, improve focus, and sleep better. The platform's distinctive, friendly design and the soothing voice of co-founder Andy Puddicombe (a former Buddhist monk) create an inviting environment for both absolute beginners and seasoned meditators.\n\nThe core offering is its extensive library of **Guided Meditations**, starting with the foundational 'Basics' course, which introduces the core principles of mindfulness in a simple, structured ten-day series. Beyond the basics, the app features hundreds of themed courses, or **'Packs,'** dedicated to specific life challenges such as managing anxiety, coping with change, building confidence, patience, and finding focus at work. This targeted content ensures that users can find support for their immediate emotional and situational needs.\n\nIn addition to meditation, Headspace provides specialized features for holistic mental health. The **'Sleep by Headspace'** section includes a rich selection of **Sleepcasts** (unique bedtime stories), **Sleep Music**, and **Wind-Down Exercises** designed to quiet a busy mind and facilitate restful sleep. For moments of high stress, the **'SOS' sessions** offer immediate, on-demand guided tools for acute emotional distress. Recognizing the importance of movement, the app also includes **Mindful Movement** exercises—guided workouts, yoga, and stretching sessions that combine physical activity with mental presence. Headspace operates on the principle of making mindful living a sustainable, daily practice, providing the essential tools to cultivate greater mental clarity, emotional resilience, and overall inner peace in the chaotic modern world. Its consistent, high-quality content and evidence-based approach have made it a leader in the digital health space."
-  },
-  {
-    "id": 9,
-    "title": "Trello",
-    "companyName": "Atlassian",
-    "image": "/images/trello.png",
-    "size": "100MB",
-    "reviews": "600K",
-    "downloads": "80M",
-    "ratingAvg": 4.4,
-    "ratings": [
-      { "name": "1 star", "count": 5000 },
-      { "name": "2 star", "count": 10000 },
-      { "name": "3 star", "count": 25000 },
-      { "name": "4 star", "count": 80000 },
-      { "name": "5 star", "count": 350000 }
-    ],
-    "description": "Trello is a highly visual and incredibly flexible **project management tool** based on the **Kanban methodology**. Its system of **Boards, Lists, and Cards** provides a simple, intuitive way for individuals and teams to organize, prioritize, and track work visually. The core strength of Trello is its versatility: it can be used for anything from managing a complex software development sprint and tracking sales leads to planning a wedding or organizing personal study notes. The visual nature of the boards makes it instantly understandable and reduces the steep learning curve often associated with enterprise project software.\n\nBoards represent projects, Lists define the workflow stages (e.g., 'To Do,' 'In Progress,' 'Completed'), and Cards represent individual tasks or items. Cards are the workhorses of the system; they can contain detailed information, including descriptions, checklists, due dates, attachments, links, and comments. This centralized, card-based approach ensures that all relevant context for a task is always available in one place. **Real-time collaboration** is a key feature, allowing team members to be assigned to cards, mention others in comments, and receive notifications instantly. The **Butler** automation feature is a powerful addition, enabling users to create rules and triggers to automate repetitive tasks—such as automatically moving a card to the 'Review' list when all checklist items are marked complete, or setting due date reminders. This automation capability significantly boosts team efficiency.\n\nTrello seamlessly integrates with hundreds of other tools via **Power-Ups**, which add features like calendar view integration, advanced reporting, voting, and connection to popular services like Slack, Salesforce, and Google Drive. Owned by Atlassian, Trello benefits from a robust and secure infrastructure. Its simplicity, combined with its powerful extensions and visual workflow tracking, makes Trello the go-to choice for teams looking for an agile, low-overhead solution to manage complex processes in a fun and engaging way."
-  },
-  {
-    "id": 10,
-    "title": "Zoom Meetings",
-    "companyName": "Zoom Video Communications, Inc.",
-    "image": "/images/zoom.png",
-    "size": "85MB",
-    "reviews": "1.8M",
-    "downloads": "700M",
-    "ratingAvg": 4.2,
-    "ratings": [
-      { "name": "1 star", "count": 150000 },
-      { "name": "2 star", "count": 200000 },
-      { "name" : "3 star", "count": 350000 },
-      { "name" : "4 star",  "count": 500000 },
-      { "name" : "5 star", "count": 600000 }
-    ],
-    "description": "Zoom Meetings established itself as the world's leading platform for **video conferencing and virtual communication**, known for its unparalleled reliability, superior high-definition video quality, and simplicity of use. It has become the standard tool for remote teams, educational institutions, and personal connections globally. The application’s key differentiator is its ability to maintain excellent performance and connection stability, even in low-bandwidth environments, which is critical for a global user base.\n\nThe interface is designed for **instant access and ease of hosting**. Users can join a meeting with a single click via a link, eliminating the need for complex sign-up processes for guests. For hosts, Zoom provides a suite of powerful **meeting controls**, including the ability to manage participants (mute, remove, promote), share screens (with annotation tools), use virtual backgrounds, and implement **Waiting Rooms** for security. Its **breakout room** feature is essential for training and educational purposes, allowing hosts to divide large meetings into smaller, private discussion groups.\n\nBeyond basic meetings, Zoom is equipped for large-scale events. **Webinar** functionality supports thousands of view-only attendees, Q&A features, and polling. All sessions can be easily **recorded** locally or to the cloud, complete with automatic transcriptions. The platform also offers extensive **security features**, including end-to-end encryption, password protection, and the ability to lock a meeting. Zoom’s extensive **API and App Marketplace** allows for deep integration with scheduling software, CRM systems, and other collaboration tools, streamlining workflows. Whether facilitating a one-on-one check-in, a university lecture, or a corporate all-hands meeting, Zoom provides the scalable, high-quality infrastructure necessary to bring people together virtually and communicate effectively in the age of remote work."
-  },
-  {
-    "id": 11,
-    "title": "Spotify",
-    "companyName": "Spotify Technology S.A.",
-    "image": "/images/spotify.png",
-    "size": "105MB",
-    "reviews": "25M",
-    "downloads": "1B",
-    "ratingAvg": 4.6,
-    "ratings": [
-      { "name" : "1 star", "count": 300000 },
-      { "name": "2 star",  "count": 500000 },
-      { "name": "3 star",  "count": 1200000 },
-      { "name": "4 star",  "count": 33500000 },
-      { "name": "5 star", "count": 185400000 }
-    ],
-    "description": "Spotify is the undisputed global leader in **digital music, podcast, and audio streaming**, offering millions of tracks and episodes across various devices. Its defining achievement is its **recommendation engine**, which utilizes proprietary machine learning algorithms to understand user taste and deliver highly personalized content. Features like **Discover Weekly** and **Daily Mixes** are legendary for their ability to introduce users to new artists and genres they love, driving listener engagement and establishing a powerful emotional connection with the platform.\n\nWith both a free, ad-supported tier and a premium subscription service, Spotify provides massive accessibility. The premium tier unlocks features critical for serious music lovers: **ad-free listening, offline playback, and high-quality audio streaming**. The application’s interface is meticulously designed for intuitive navigation, allowing users to effortlessly browse by artist, album, genre, or mood. The **social features** are also popular, enabling users to create and share playlists, collaboratively edit playlists with friends, and follow their favorite artists and podcasts to receive instant updates on new releases.\n\nIn recent years, Spotify has made a significant investment in becoming the leading platform for **podcasts and audio shows**. It hosts exclusive, high-profile content and provides robust discovery tools specifically for spoken-word content, including topic-based curation and segment-level transcripts. For artists and creators, the **Spotify for Artists** platform provides essential analytics and promotional tools, fostering a direct relationship between creators and their audience. Its universal device compatibility—from mobile phones and desktop computers to smart speakers, cars, and gaming consoles—ensures that the user’s entire audio world is seamlessly available everywhere, cementing Spotify's role as the definitive source for personalized audio entertainment."
-  },
-  {
-    "id": 12,
-    "title": "GitHub",
-    "companyName": "GitHub, Inc. (Microsoft)",
-    "image": "/images/github.png",
-    "size": "120MB",
-    "reviews": "150K",
-    "downloads": "12M",
-    "ratingAvg": 4.8,
-    "ratings": [
-      { "name":"1 star", "count": 800 },
-      { "name":"2 star", "count": 1200 },
-      { "name":"3 star", "count": 3000 },
-      { "name":"4 star", "count": 15000 },
-      { "name":"5 star", "count": 110000 }
-    ],
-    "description": "GitHub is the world's most extensive and important **developer platform**, serving as the central hub for **version control** using Git and **software collaboration**. Hosting over 400 million repositories, it is the home for open-source projects, large enterprise codebases, and individual developer portfolios. Its mission is to accelerate developer velocity and foster a vibrant, collaborative community, and its core functionality revolves around **Repositories, Pull Requests, and Issues**.\n\nRepositories are the foundational units where projects reside. The **Pull Request (PR)** system is the lifeblood of collaboration, allowing developers to propose changes to a codebase. This system facilitates detailed **code reviews**, where team members can discuss, suggest modifications, and ultimately approve or reject the changes before they are merged into the main branch. The **Issues** feature provides a structured way to track bugs, plan feature development, and manage general project tasks, serving as a project management layer integrated directly with the source code.\n\nGitHub’s influence extends far beyond code hosting. **GitHub Actions** provides a powerful **CI/CD (Continuous Integration/Continuous Deployment)** workflow automation tool that allows developers to automatically build, test, and deploy their code with every push. This significantly speeds up the development cycle and reduces manual errors. **GitHub Codespaces** offers a cloud-based development environment that can be launched instantly from any repository, removing the need for complex local setup. Furthermore, the platform is a critical component for **DevOps** practices, supporting security scanning (**GitHub Advanced Security**) and policy enforcement. By providing a unified, cloud-native environment for every stage of the software development lifecycle, from ideation to production, GitHub remains the indispensable tool for professional developers and the backbone of the modern digital economy."
-  },
-  {
-    "id": 13,
-    "title": "Procreate",
-    "companyName": "Savage Interactive Pty Ltd",
-    "image": "/images/procreate.png",
-    "size": "250MB",
-    "reviews": "400K",
-    "downloads": "18M",
-    "ratingAvg": 4.9,
-    "ratings": [
-      { "name": "1 star", "count": 1000 },
-      { "name": "2 star", "count": 2000 },
-      { "name": "3 star", "count": 5000 },
-      { "name": "4 star", "count": 25000 },
-      { "name": "5 star", "count": 350000 }
-    ],
-    "description": "Procreate is the industry-defining **digital illustration and painting application** exclusively for the iPad, offering professional-grade tools in a highly intuitive and portable interface. It is celebrated by artists, designers, and illustrators worldwide for its **blazing speed and responsiveness**, which are achieved by fully leveraging the Metal graphics API and the power of the Apple Pencil. This optimization results in virtually zero latency, making the digital drawing experience feel as fluid and natural as using traditional media.\n\nThe app's feature set is expansive yet elegant. Its **Brush Library** is massive, featuring hundreds of highly customizable brushes for everything from realistic oil painting and watercolor to technical inking and textured effects. Users can easily create and share their own custom brushes, contributing to a vibrant community ecosystem. **Layering** is robust, supporting blend modes, clipping masks, and group organization, which is crucial for complex artwork. A standout feature is **Color Dynamics**, allowing subtle variations in hue, saturation, and lightness to be applied automatically while painting, adding incredible richness and depth to the artwork.\n\nProcreate also excels in specialized functionalities. The **Time-lapse Recording** feature automatically captures every stroke of the creative process, generating a high-definition video that is perfect for sharing on social media. The **StreamLine** feature automatically smooths and stabilizes strokes, assisting artists in drawing perfect curves and clean lines. For lettering artists and graphic designers, **Text Tool** offers excellent typographical control. Furthermore, **Procreate's Reference Companion** allows artists to keep a separate, small window for color picking or reference images while focusing on their main canvas. By combining powerful features, a simple, non-distracting UI, and unmatched performance, Procreate has successfully replaced traditional sketchbooks and professional desktop software for countless artists, cementing its status as the most versatile digital art studio available on a tablet."
-  },
-  {
-    "id": 14,
-    "title": "Adobe Photoshop Express",
-    "companyName": "Adobe Inc.",
-    "image": "/images/photoshop_express.png",
-    "size": "220MB",
-    "reviews": "950K",
-    "downloads": "100M",
-    "ratingAvg": 4.5,
-    "ratings": [
-      { "name": "1 star", "count": 20000 },
-      { "name": "2 star", "count": 35000 },
-      { "name": "3 star", "count": 70000 },
-      { "name": "4 star", "count": 150000 },
-      { "name": "5 star", "count": 550000 }
-    ],
-    "description": "Adobe Photoshop Express is the powerful, streamlined version of the industry-standard photo editing software, specifically optimized for **mobile users and quick, high-quality edits**. It allows users to capture, edit, and share photos instantly, bypassing the complexity of the full desktop version while retaining the core quality and reliability that Adobe is known for. The app is focused on efficiency, making professional-looking photo enhancement accessible to casual users and social media enthusiasts alike.\n\nThe app provides a vast array of **one-touch adjustments and filters** (called 'Looks') that can instantly improve lighting, color, and contrast. Beyond these quick fixes, the application offers sophisticated manual controls for fine-tuning exposure, shadows, highlights, temperature, tint, and saturation. A key strength is its **Healing tool**, which allows users to easily remove blemishes, dust, and distracting objects from photos with remarkable precision, leveraging Adobe Sensei's AI-powered technology. The **Collage Maker** is also highly intuitive, offering various layouts, background styles, and border options for creative grouping of images.\n\nPhotoshop Express integrates seamlessly with other Adobe Creative Cloud services and popular photo platforms like Google Photos and Dropbox. It excels in **image manipulation** with features such as perspective correction, which fixes skewed or crooked images often resulting from wide-angle mobile photography. Furthermore, the app supports **RAW file formats**, which is a crucial feature for professional mobile photographers who require maximum image data retention for editing. Recognizing the demands of social media, the app includes options for adding text, graphics, and borders, with optimized presets for various platforms. By delivering core Photoshop power through a user-friendly mobile interface, Photoshop Express empowers users to transform their everyday photos into stunning visual stories quickly and effectively."
-  },
-  {
-    "id": 15,
-    "title": "Slack",
-    "companyName": "Slack Technologies, LLC (Salesforce)",
-    "image": "/images/slack.png",
-    "size": "130MB",
-    "reviews": "700K",
-    "downloads": "90M",
-    "ratingAvg": 4.5,
-    "ratings": [
-      { "name": "1 star", "count": 15000 },
-      { "name": "2 star", "count": 25000 },
-      { "name": "3 star", "count": 50000 },
-      { "name": "4 star", "count": 120000 },
-      { "name": "5 star", "count": 450000 }
-    ],
-    "description": "Slack is the leading **channel-based messaging platform** that has fundamentally changed how teams communicate and collaborate, serving as a powerful alternative to internal email. It organizes conversations into **Channels**, which can be created for projects, teams, departments, or specific topics, ensuring that information and context are always where they belong. This structure drastically reduces inbox clutter and makes all relevant communication searchable and accessible to everyone in the channel.\n\nThe platform supports rich, real-time messaging, file sharing, and threaded replies to keep discussions organized. Its **Search function** is famously robust, allowing users to quickly find past messages, files, and links across the entire history of the workspace. Beyond text, Slack facilitates **Huddles** (lightweight, audio-first meetings for quick discussions) and **Clips** (recordable video and audio messages), adding flexibility to communication styles. The true power of Slack lies in its **App Directory and Integration capabilities**. It connects with thousands of third-party tools like Google Drive, GitHub, Salesforce, and Jira, allowing teams to receive notifications, execute commands, and perform tasks directly within the messaging interface. For example, a developer can approve a pull request or a sales team member can update a CRM record without leaving Slack.\n\nSlack also emphasizes **external collaboration** through **Slack Connect**, which allows users to securely work with external partners, vendors, and clients in a dedicated shared channel. This capability removes the need for email entirely for many cross-organizational projects. With customizable notifications, high-level security features, and a scalable architecture, Slack serves as the central nervous system for thousands of high-velocity organizations, promoting transparency, accountability, and quicker decision-making by making information flow effortlessly."
-  },
-  {
-    "id": 16,
-    "title": "Coursera",
-    "companyName": "Coursera, Inc.",
-    "image": "/images/coursera.png",
-    "size": "90MB",
-    "reviews": "1.1M",
-    "downloads": "70M",
-    "ratingAvg": 4.6,
-    "ratings": [
-      { "name": "1 star", "count": 10000 },
-      { "name": "2 star", "count": 15000 },
-      { "name":"3 star", "count": 40000 },
-      { "name": "4 star", "count": 150000 },
-      { "name": "5 star", "count": 650000 }
-    ],
-    "description": "Coursera is one of the world's largest and most reputable **online learning platforms**, offering access to **courses, specializations, professional certificates, and even full degrees** from over 200 leading universities (like Stanford, Yale, and Duke) and top global companies (like Google, IBM, and Amazon). The platform's mission is to provide universal access to world-class education, enabling career advancement and personal enrichment for a global audience.\n\nThe educational content is delivered via high-quality video lectures, interactive quizzes, peer-graded assignments, and hands-on projects. Coursera's learning pathways are structured to maximize career impact. **Specializations** group several related courses into a cohesive curriculum, culminating in a final Capstone Project that provides real-world experience. **Professional Certificates** are a major offering, particularly in high-demand fields like IT Support, Data Analytics, and Project Management, offering job-relevant skills recognized by industry employers. These certificates often serve as a faster, more affordable route to new careers or upskilling.\n\nThe platform is highly adaptive, allowing users to learn at their own pace with flexible deadlines. Crucially, the platform supports several languages through subtitles and sometimes localized content. The mobile application is excellent, allowing users to **download lectures and materials for offline viewing**, making education accessible during commutes or in areas with limited internet access. Coursera is committed to providing genuine credentials; many courses offer shareable **Certificates of Completion** and, most significantly, the platform hosts fully accredited **Master's and Bachelor's degree programs** online. This comprehensive range of educational products, from free introductory courses to full university degrees, firmly establishes Coursera as a premier destination for lifelong learning and professional development in the digital age."
-  },
-  {
-    "id": 17,
-    "title": "Robinhood",
-    "companyName": "Robinhood Markets, Inc.",
-    "image": "/images/robinhood.png",
-    "size": "170MB",
-    "reviews": "3M",
-    "downloads": "20M",
-    "ratingAvg": 4.1,
-    "ratings": [
-      { "name": "1 star", "count": 600000 },
-      { "name": "2 star", "count": 400000 },
-      { "name":"3 star", "count": 500000 },
-      { "name": "4 star", "count": 600000 },
-      { "name": "5 star", "count": 900000 }
-    ],
-    "description": "Robinhood is a pioneering **financial brokerage application** that dramatically disrupted the investment industry by offering **commission-free trading** of stocks, ETFs, and options. Its primary goal was to 'democratize finance' by making investing accessible to a younger generation and first-time investors who were previously deterred by high trading fees and complex brokerage interfaces. The app's design philosophy is centered on **simplicity and mobile-first experience**, presenting complex financial data in a clean, easily digestible format.\n\nThe app's interface is intentionally gamified, featuring smooth animations, simple charts, and celebratory visuals for successful trades, which has been both praised for engagement and criticized for potentially encouraging risky behavior. Key features include the ability to trade **fractional shares**, allowing users to invest small amounts of money in high-priced stocks like Amazon or Google. This lowered the barrier to entry significantly. Robinhood also offers trading in select **Cryptocurrencies** (like Bitcoin and Ethereum) and access to various **Options contracts**, catering to both novice and more sophisticated traders.\n\nRobinhood Gold is its premium subscription service, offering users **margin investing** (borrowing money to trade) and higher interest rates on uninvested cash. For security, the app provides standard industry protections, including SIPC insurance for brokerage accounts. Despite facing significant controversy related to trade restrictions and technical outages during high-volatility periods, Robinhood remains a highly influential platform. It continues to evolve by adding new features like **retirement accounts (IRAs)** and better educational resources, aiming to mature its platform and provide a full suite of financial services while maintaining its signature user-friendly experience that attracts millions of new investors."
-  },
-  {
-    "id": 18,
-    "title": "Evernote",
-    "companyName": "Evernote Corporation",
-    "image": "/images/evernote.png",
-    "size": "150MB",
-    "reviews": "1.5M",
-    "downloads": "150M",
-    "ratingAvg": 4.0,
-    "ratings": [
-      { "name": "1 star", "count": 180000 },
-      { "name": "2 star", "count": 220000 },
-      { "name":"3 star", "count": 300000 },
-      { "name": "4 star", "count": 400000 },
-      { "name": "5 star", "count": 400000 }
-    ],
-    "description": "Evernote is a long-standing, powerful application designed for **note-taking, organizing, and archiving information** from virtually any source. Often described as a **'digital external brain,'** its core strength lies in its ability to capture, organize, and—most crucially—**search** a massive library of diverse content types. It supports plain text, handwritten notes (using a stylus), web clips, images, PDFs, audio recordings, and even documents, centralizing all of a user's digital assets.\n\nThe organizational structure is based on **Notes, Notebooks, and Stacks**, allowing users to categorize content hierarchically. However, Evernote's most celebrated feature is its **industry-leading search technology**. The system doesn't just search text; it uses **Optical Character Recognition (OCR)** to make text inside images, PDFs, and even handwritten notes searchable. This feature is transformative for researchers, students, and professionals who frequently deal with scanned documents and visual notes, ensuring no piece of captured information is ever lost.\n\nEvernote is highly praised for its **cross-platform synchronization**, ensuring notes are instantly available and editable across desktop, mobile, and web clients. The **Web Clipper** browser extension is essential, allowing users to capture entire articles, simplified views, or selected portions of web pages directly into their Notebooks, automatically adding the source link. The app supports collaborative features, allowing notes and notebooks to be shared for team editing and viewing. Despite facing increased competition from modern, flexible tools, Evernote maintains a loyal user base due to its robust **archiving capabilities** and the depth of its feature set for long-term knowledge retention. It remains the dominant choice for users whose primary need is to reliably capture and retrieve vast quantities of mixed-media information over many years."
-  },
-  {
-    "id": 19,
-    "title": "MetaMask",
-    "companyName": "ConsenSys Software Inc.",
-    "image": "/images/metamask.png",
-    "size": "145MB",
-    "reviews": "500K",
-    "downloads": "30M",
-    "ratingAvg": 4.5,
-    "ratings": [
-      { "name": "1 star", "count": 10000 },
-      { "name": "2 star", "count": 20000 },
-      { "name": "3 star", "count": 40000 },
-      { "name": "4 star", "count": 100000 },
-      { "name": "5 star", "count": 300000 }
-    ],
-    "description": "MetaMask is the leading **cryptocurrency wallet and gateway to decentralized applications (dApps)** on the Ethereum blockchain and other compatible networks. It functions as both a secure wallet for holding Ethereum and various ERC-20 tokens (and now many other EVM-compatible chains like Polygon and Binance Smart Chain) and a browser extension/mobile app that injects Web3 functionality into regular web browsers. This capability allows users to seamlessly and securely interact with the burgeoning world of **Decentralized Finance (DeFi), NFTs, and blockchain gaming**.\n\nAt its core, MetaMask provides the user with control over their **private keys** (via a Seed Phrase), meaning the user—and not the platform—has true ownership of their assets. It is a **non-custodial wallet**, which is a crucial distinction in the crypto space. The interface is designed to simplify the complex process of blockchain interaction. When a user visits a dApp (like OpenSea or Uniswap), MetaMask pops up to request a transaction signature, clearly outlining the fees (gas) and the action being taken, providing an essential security layer for transaction verification.\n\nKey functionalities include **token swapping** directly within the wallet interface, allowing users to exchange one crypto asset for another without having to navigate a separate exchange. It also allows for easy **management of multiple accounts** and the ability to switch between different blockchain **networks** (Mainnet, testnets, or custom RPCs) instantly. Security is paramount; users must secure their Seed Phrase offline and use strong passwords. MetaMask has become the foundational tool for anyone serious about engaging with the decentralized internet, serving as the essential bridge that connects the user's secure crypto assets to the decentralized Web3 ecosystem."
-  },
-  {
-    "id": 20,
-    "title": "Google Drive",
-    "companyName": "Google LLC",
-    "image": "/images/googledrive.png",
-    "size": "115MB",
-    "reviews": "10M",
-    "downloads": "5B",
-    "ratingAvg": 4.4,
-    "ratings": [
-      { "name": "1 star", "count": 500000 },
-      { "name": "2 star", "count": 750000 },
-      { "name":"3 star",  "count": 1505000 },
-      { "name": "4 star", "count": 2255500 },
-      { "name": "5 star", "count": 55504500 }
-    ],
-    "description": "Google Drive is the cornerstone of cloud storage and file synchronization, offering a seamless and integrated solution for storing, sharing, and accessing files from any device. As a key component of the Google ecosystem, its utility is massively enhanced by its deep connection with **Google Workspace** (Docs, Sheets, Slides, etc.), enabling real-time collaborative editing directly within the cloud environment. This integration has made Drive the preferred solution for collaborative academic and business environments globally.\n\nThe platform provides a generous amount of **free storage** and highly affordable tiered plans for individuals and enterprises. Beyond simple storage, its power lies in its **robust sharing and permissions model**. Users can share files or folders with specific individuals, set view-only, comment-only, or full editing access, and even set expiration dates on sharing links for enhanced security. The powerful **AI-driven search function** is a major differentiator; it can identify objects and text within images and PDFs, find files based on their content, owner, or file type, ensuring that users can quickly locate any stored item, even if they forgot its name.\n\nDrive supports the storage of virtually **any file type**, from videos and photos to CAD drawings and code. The desktop and mobile applications feature **offline access**, allowing users to designate files for local synchronization and editing when an internet connection is unavailable, with changes automatically updating when back online. Furthermore, Drive is an open platform, supporting integrations with hundreds of third-party apps that can directly create, edit, or manage files stored in the cloud. By providing a secure, reliable, and highly collaborative environment for file storage and document creation, Google Drive has become an essential tool for digital life, serving as the trusted, central repository for personal and professional data."
-  }
+    {
+        "id": 1,
+        "title": "Airtable",
+        "companyName": "Airtable, Inc.",
+        "image": "https://i.ibb.co.com/0pytLZQR/Airtable.jpg",
+        "size": "165MB",
+        "reviews": "180K",
+        "downloads": "15M",
+        "ratingAvg": 4.5,
+        "ratings": [
+            { "name": "5 star", "count": 68000 },
+            { "name": "4 star", "count": 14000 },
+            { "name": "3 star", "count": 6000 },
+            { "name": "2 star", "count": 2500 },
+            { "name": "1 star", "count": 1000 }
+        ],
+        "description": [
+            "Airtable successfully bridges the gap between the familiar simplicity of a spreadsheet and the powerful complexity of a relational database. It offers a dynamic, visual workspace that allows teams to manage content, projects, and complex workflows without requiring deep technical expertise.",
+            "The core strength of Airtable lies in its flexible structure: data is organized into 'Bases,' which contain 'Tables.' Unlike traditional spreadsheets, these tables can link to each other, allowing for rich data relationships—meaning a 'Project' record can link directly to 'Team Member' records and 'Asset' records, creating a unified, interconnected data model. This relational capability makes it an ideal tool for everything from inventory tracking and CRM to editorial calendars and creative production management.",
+            "Airtable goes far beyond simple data entry with its diverse View Types. Users can instantly transform their data from a standard Grid (spreadsheet view) into a visual Kanban board to track progress, a Calendar view for scheduling, a Gallery view for showcasing creative assets, or a Gantt chart for project timelines. This flexibility allows different team members to interact with the same data in the format most relevant to their work.",
+            "Furthermore, the platform is bolstered by powerful Automation capabilities. Teams can define rules to automatically send emails, update records, move tasks between stages, or integrate with third-party services like Slack or Jira, all without writing code.",
+            "The 'Airtable Apps' Marketplace extends functionality even further, offering tools like chart builders, scripting interfaces, and data visualization blocks. Coupled with a vast library of pre-built templates for almost every industry and use case, Airtable empowers non-developers to build highly customized, enterprise-grade applications quickly. It truly transforms the way modern teams organize information, ensuring clarity, collaboration, and control across every project."
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Obsidian",
+        "companyName": "Obsidian MD, Inc.",
+        "image": "https://i.ibb.co.com/BKVCNV1r/Obsidian.jpg",
+        "size": "140MB",
+        "reviews": "120K",
+        "downloads": "10M",
+        "ratingAvg": 4.9,
+        "ratings": [
+            { "name": "5 star", "count": 55000 },
+            { "name": "4 star", "count": 9000 },
+            { "name": "3 star", "count": 2000 },
+            { "name": "2 star", "count": 1000 },
+            { "name": "1 star", "count": 500 }
+        ],
+        "description": [
+            "Obsidian is a powerful, innovative note-taking and knowledge management application that champions the philosophy of 'Your data, your control.' Unlike cloud-based competitors, Obsidian operates entirely on local Markdown files stored directly on the user's device, ensuring maximum privacy, ownership, and incredibly fast performance.",
+            "This unique local-first architecture makes it the tool of choice for academics, writers, developers, and anyone dedicated to building a comprehensive and future-proof personal knowledge base.",
+            "The app's defining feature is its approach to linking notes, which is inspired by the Zettelkasten methodology. By surrounding words with double brackets [[like this]], users can create automatic, bi-directional links between notes. This process transforms a collection of disparate notes into a cohesive, interconnected personal knowledge graph.",
+            "The stunning Graph View is a visual representation of this network, allowing users to see how all their ideas, projects, and thoughts are connected, often leading to unexpected discoveries and creative breakthroughs. This graphical mapping aids in deep thinking and complex idea organization.",
+            "Obsidian's functionality is exponentially expanded by its vast ecosystem of Community Plugins. Users can install plugins to add features like integrated task management, spaced repetition learning (flashcards), sophisticated data views (DataView), and seamless integration with external tools.",
+            "The app is highly customizable, supporting CSS themes that radically alter the look and feel, allowing users to craft an environment perfectly suited to their working style.",
+            "Furthermore, the concept of Workspaces allows users to save specific pane layouts for different activities (e.g., 'Writing Mode' or 'Research Mode'). Obsidian is truly designed to be a second brain, empowering users to not just take notes, but to think, write, and organize information more effectively by mimicking the web of connections found in the human mind.",
+            "The commitment to privacy, offline access, and community-driven development has solidified its status as a top-tier tool for serious knowledge workers."
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Figma",
+        "companyName": "Figma, Inc.",
+        "image": "https://i.ibb.co.com/DDVy48LQ/Figma.jpg",
+        "size": "190MB",
+        "reviews": "110K",
+        "downloads": "9M",
+        "ratingAvg": 4.7,
+        "ratings": [
+            { "name": "5 star", "count": 70000 },
+            { "name": "4 star", "count": 60000 },
+            { "name": "3 star", "count": 5000 },
+            { "name": "2 star", "count": 1800 },
+            { "name": "1 star", "count": 1200 }
+        ],
+        "description": [
+            "Figma has revolutionized the world of digital design, establishing itself as the industry standard for UI/UX design, prototyping, and collaboration.",
+            "Its primary breakthrough was being a browser-based tool that supports real-time, simultaneous multi-user collaboration—a feature that had been sorely lacking in desktop-bound competitors. This architecture transforms the design process from a sequential handover to a live, collective effort, allowing designers, developers, and stakeholders to work together in the same file at the same time, much like Google Docs for design.",
+            "At its core, Figma offers a comprehensive set of vector-based design tools tailored for creating scalable and precise digital interfaces.",
+            "Its Auto Layout feature is a game-changer, allowing designers to create components that automatically resize and reflow based on their content, leading to much more efficient and developer-friendly design systems.",
+            "The integrated Prototyping toolset is equally powerful, enabling designers to link screens and simulate user flows with sophisticated interactions, animations, and transitions. This allows for rigorous testing and validation of the user experience before any code is written.",
+            "The Inspect Panel is specifically designed for developers, providing instant CSS, iOS, and Android code snippets for all design elements, drastically reducing the friction between design and engineering teams.",
+            "Figma's ecosystem is further enriched by FigJam, a companion whiteboard tool integrated within the platform, ideal for brainstorming, flow-charting, and running design sprints.",
+            "The concept of Design Systems is deeply embedded, with features like Components and Variants that allow teams to build and maintain a single source of truth for all reusable elements. This ensures consistency across massive projects and accelerates the design process exponentially.",
+            "The Community is another massive asset, providing thousands of free plugins, widgets, and templates that extend Figma's capabilities far beyond its core features.",
+            "From a small startup building its first app to a large enterprise managing a complex product suite, Figma is the indispensable tool for turning ideas into pixel-perfect, interactive digital products."
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Duolingo",
+        "companyName": "Duolingo, Inc.",
+        "image": "https://i.ibb.co.com/qMhDHQw9/Duolingo.jpg",
+        "size": "210MB",
+        "reviews": "12M",
+        "downloads": "500M",
+        "ratingAvg": 4.7,
+        "ratings": [
+            { "name": "5 star", "count": 80043000 },
+            { "name": "4 star", "count": 1500000 },
+            { "name": "3 star", "count": 500000 },
+            { "name": "2 star", "count": 250000 },
+            { "name": "1 star", "count": 150000 }
+        ],
+        "description": [
+            "Duolingo is the world's most popular and downloaded application for language learning, pioneering the use of gamification to make educational content engaging, accessible, and highly addictive. With over 40 languages offered, ranging from Spanish and French to high-demand languages like Japanese and unique offerings like High Valyrian, Duolingo has made language acquisition a global phenomenon.",
+            "The core methodology breaks down complex linguistic concepts into short, bite-sized lessons that focus on vocabulary, grammar, listening comprehension, and speaking practice.",
+            "The application is meticulously designed around game mechanics. Users earn Experience Points (XP) for completing lessons, maintain Streaks (consecutive days of practice) to build habits, compete in weekly Leaderboards with friends and strangers, and earn virtual Gems to spend on in-app items.",
+            "This gamified approach leverages principles of behavioral economics to motivate users to return daily, transforming the often tedious process of language study into a fun, competitive ritual. Duolingo's mascot, Duo the owl, has become a global icon, humorously representing the app's persistent nudges to keep up with daily lessons.",
+            "Beyond basic lessons, the app incorporates several advanced features to deepen learning. Stories offer short, interactive dialogues to practice reading comprehension and context.",
+            "Lessons are adaptive, meaning the content adjusts in real-time based on the user's performance, focusing on areas where the student struggles most.",
+            "The platform also employs a sophisticated AI-driven personalization layer that optimizes the learning path for efficiency.",
+            "For users committed to serious language mastery, the app offers the Duolingo English Test (DET), an affordable, convenient, and accepted alternative to traditional standardized tests like TOEFL and IELTS.",
+            "Duolingo's mission is to make high-quality language education universally available, and its proven ability to blend education with entertainment has made it a category leader in ed-tech."
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Notion",
+        "companyName": "Notion Labs, Inc.",
+        "image": "https://i.ibb.co.com/MxxNNTGK/Notion.jpg",
+        "size": "155MB",
+        "reviews": "200K",
+        "downloads": "20M",
+        "ratingAvg": 4.6,
+        "ratings": [
+            { "name": "5 star", "count": 105000 },
+            { "name": "4 star", "count": 18000 },
+            { "name": "3 star", "count": 7000 },
+            { "name": "2 star", "count": 3000 },
+            { "name": "1 star", "count": 2000 }
+        ],
+        "description": [
+            "Notion is hailed as the all-in-one workspace for notes, tasks, wikis, and databases, defining a new category of modular productivity software.",
+            "It operates on the core principle of 'everything is a block,' allowing users to combine text, images, tables, code snippets, to-do lists, and embedded media onto a single page.",
+            "This highly flexible, block-based editor allows individuals and teams to structure information in countless ways, replacing a scattered collection of specialized apps (like document editors, spreadsheets, and project managers) with one unified tool.",
+            "The platform's power comes from its ability to create Relational Databases. These databases can be displayed in multiple formats—as a Kanban board, calendar, list, gallery, or traditional table—and records can be linked across different pages.",
+            "This functionality enables users to build incredibly sophisticated, interconnected systems, such as a company wiki linked to a project tracker which in turn is linked to individual task lists.",
+            "This interconnectedness ensures that information is never siloed, promoting organizational transparency and efficiency.",
+            "Collaboration and sharing are seamless within Notion. Users can share pages, workspaces, or entire databases with granular control over viewing, editing, and commenting permissions.",
+            "This makes it an excellent tool for remote teams, product managers, and educational institutions.",
+            "Notion also boasts a massive and dedicated community that shares thousands of free, complex templates for everything from financial tracking and habit building to complex engineering roadmaps.",
+            "The recent introduction of Notion AI further extends its utility, allowing users to automatically summarize documents, brainstorm ideas, draft content, and automatically fill out database properties.",
+            "Notion is essentially a digital LEGO set for organization, providing the tools to build a custom system that perfectly matches any user's or team's unique workflow and information architecture, fostering a sense of structure and control over the digital workspace."
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Canva",
+        "companyName": "Canva Pty Ltd",
+        "image": "https://i.ibb.co.com/G31cVt6P/Canva.jpg",
+        "size": "180MB",
+        "reviews": "4.5M",
+        "downloads": "300M",
+        "ratingAvg": 4.9,
+        "ratings": [
+            { "name": "5 star", "count": 3300000 },
+            { "name": "4 star", "count": 400000 },
+            { "name": "3 star", "count": 100000 },
+            { "name": "2 star", "count": 50000 },
+            { "name": "1 star", "count": 25000 }
+        ],
+        "description": [
+            "Canva has democratized design, making professional-quality graphics and visual content creation accessible to everyone, regardless of their technical design skills.",
+            "It is the leading online platform for creating social media graphics, presentations, posters, documents, and other visual materials.",
+            "The app’s success is built upon its intuitive drag-and-drop interface and its massive, constantly updated library of resources, fundamentally changing how non-designers interact with visual media.",
+            "The heart of Canva is its vast collection of over 600,000 professional templates. These templates cover every conceivable use case—from Instagram stories and YouTube thumbnails to business cards, complex infographics, and multi-page reports.",
+            "This allows users to start with a high-quality foundation and simply customize the text, colors, and images, drastically reducing the time and skill required to produce polished work.",
+            "The Brand Kit feature is essential for businesses, allowing them to store their company colors, fonts, and logos, ensuring brand consistency across all created materials with a single click.",
+            "Beyond static design, Canva is a powerful tool for motion graphics and video editing. Users can animate elements, create short video clips, and edit footage with the same easy-to-use interface.",
+            "The platform also offers advanced features such as Magic Resize, which instantly adapts a design to different platform dimensions (e.g., changing a Facebook post to a Twitter header), and Background Remover, an AI-powered tool that cleanly isolates subjects in photos.",
+            "Furthermore, the collaboration features allow teams to co-design in real-time, leave comments, and manage content approval workflows.",
+            "Canva has evolved from a simple graphic design tool into a full visual communication platform, providing the necessary tools and assets for marketers, small business owners, educators, and students to effectively convey their message in a visually saturated digital world."
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Microsoft Teams",
+        "companyName": "Microsoft Corporation",
+        "image": "https://i.ibb.co.com/sp3pGFr2/Microsoft-Teams.jpg",
+        "size": "350MB",
+        "reviews": "1.2M",
+        "downloads": "400M",
+        "ratingAvg": 4.3,
+        "ratings": [
+            { "name": "5 star", "count": 500000 },
+            { "name": "4 star", "count": 300000 },
+            { "name": "3 star", "count": 200000 },
+            { "name": "2 star", "count": 120000 },
+            { "name": "1 star", "count": 80000 }
+        ],
+        "description": [
+            "Microsoft Teams is the definitive collaboration and communication platform for the modern workplace, integrating chat, video conferencing, file storage, and apps into one hub.",
+            "Its deep connectivity with Microsoft 365 tools like Word, Excel, and SharePoint enables seamless document collaboration and meeting scheduling.",
+            "Teams and Channels organize workspaces by project or department, with threaded conversations replacing email chains.",
+            "Meetings support HD video, screen sharing, live captions, background effects, and Copilot-powered summaries.",
+            "Calling features include VoIP, call queues, and auto-attendants, often replacing traditional phone systems.",
+            "File management is simplified via SharePoint and OneDrive, with version control and secure sharing.",
+            "The App Ecosystem allows integration of thousands of third-party tools using Tabs, Bots, and Connectors.",
+            "Teams becomes a Digital Operating System for enterprises, with security, compliance, and scalability for global collaboration."
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Headspace",
+        "companyName": "Headspace Health, Inc.",
+        "image": "https://i.ibb.co.com/tTQv8t73/Headspace.jpg",
+        "size": "110MB",
+        "reviews": "900K",
+        "downloads": "50M",
+        "ratingAvg": 4.8,
+        "ratings": [
+            { "name": "5 star", "count": 700000 },
+            { "name": "4 star", "count": 100000 },
+            { "name": "3 star", "count": 30000 },
+            { "name": "2 star", "count": 15000 },
+            { "name": "1 star", "count": 10000 }
+        ],
+        "description": [
+            "Headspace is a globally renowned app for mental well-being through mindfulness and meditation.",
+            "Its friendly design and the calming voice of co-founder Andy Puddicombe make it welcoming for all users.",
+            "Guided Meditations begin with a Basics course and expand into themed Packs for anxiety, focus, and confidence.",
+            "Sleep by Headspace includes Sleepcasts, music, and wind-down exercises for better rest.",
+            "SOS sessions offer immediate support during emotional distress.",
+            "Mindful Movement features yoga and stretching to combine physical and mental wellness.",
+            "Headspace promotes sustainable daily mindfulness with evidence-based content and a user-friendly experience."
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Trello",
+        "companyName": "Atlassian",
+        "image": "https://i.ibb.co.com/Y77qTg2N/Trello.jpg",
+        "size": "100MB",
+        "reviews": "600K",
+        "downloads": "80M",
+        "ratingAvg": 4.4,
+        "ratings": [
+            { "name": "5 star", "count": 350000 },
+            { "name": "4 star", "count": 80000 },
+            { "name": "3 star", "count": 25000 },
+            { "name": "2 star", "count": 10000 },
+            { "name": "1 star", "count": 5000 }
+        ],
+        "description": [
+            "Trello is a highly visual and flexible project management tool based on the Kanban methodology.",
+            "Its system of Boards, Lists, and Cards helps teams organize and track work intuitively.",
+            "Cards hold task details like checklists, due dates, attachments, and comments—all in one place.",
+            "Real-time collaboration allows team members to assign tasks, comment, and get notifications instantly.",
+            "The Butler automation feature lets users create rules to automate repetitive actions and boost efficiency.",
+            "Power-Ups integrate Trello with tools like Slack, Google Drive, and Salesforce for extended functionality.",
+            "Trello’s simplicity and visual workflow make it ideal for agile teams managing complex processes."
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Zoom Meetings",
+        "companyName": "Zoom Video Communications, Inc.",
+        "image": "https://i.ibb.co.com/mF2RtXJk/Zoom.jpg",
+        "size": "85MB",
+        "reviews": "1.8M",
+        "downloads": "700M",
+        "ratingAvg": 4.2,
+        "ratings": [
+            { "name": "5 star", "count": 600000 },
+            { "name": "4 star", "count": 500000 },
+            { "name": "3 star", "count": 350000 },
+            { "name": "2 star", "count": 200000 },
+            { "name": "1 star", "count": 150000 }
+        ],
+        "description": [
+            "Zoom Meetings established itself as the world's leading platform for video conferencing and virtual communication, known for its unparalleled reliability, superior high-definition video quality, and simplicity of use.",
+            "It has become the standard tool for remote teams, educational institutions, and personal connections globally.",
+            "The application’s key differentiator is its ability to maintain excellent performance and connection stability, even in low-bandwidth environments, which is critical for a global user base.",
+            "The interface is designed for instant access and ease of hosting. Users can join a meeting with a single click via a link, eliminating the need for complex sign-up processes for guests.",
+            "For hosts, Zoom provides a suite of powerful meeting controls, including the ability to manage participants (mute, remove, promote), share screens (with annotation tools), use virtual backgrounds, and implement Waiting Rooms for security.",
+            "Its breakout room feature is essential for training and educational purposes, allowing hosts to divide large meetings into smaller, private discussion groups.",
+            "Beyond basic meetings, Zoom is equipped for large-scale events. Webinar functionality supports thousands of view-only attendees, Q&A features, and polling.",
+            "All sessions can be easily recorded locally or to the cloud, complete with automatic transcriptions.",
+            "The platform also offers extensive security features, including end-to-end encryption, password protection, and the ability to lock a meeting.",
+            "Zoom’s extensive API and App Marketplace allows for deep integration with scheduling software, CRM systems, and other collaboration tools, streamlining workflows.",
+            "Whether facilitating a one-on-one check-in, a university lecture, or a corporate all-hands meeting, Zoom provides the scalable, high-quality infrastructure necessary to bring people together virtually and communicate effectively in the age of remote work."
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Spotify: Music and Podcasts",
+        "companyName": "Spotify Technology S.A.",
+        "image": "https://i.ibb.co.com/9kVYywhr/Spotify.jpg",
+        "size": "105MB",
+        "reviews": "25M",
+        "downloads": "1B",
+        "ratingAvg": 4.6,
+        "ratings": [
+            { "name": "5 star", "count": 68000 },
+            { "name": "4 star", "count": 33500000 },
+            { "name": "3 star", "count": 1200000 },
+            { "name": "2 star", "count": 500000 },
+            { "name": "1 star", "count": 300000 }
+        ],
+        "description": [
+            "Spotify is the undisputed global leader in digital music, podcast, and audio streaming, offering millions of tracks and episodes across various devices.",
+            "Its defining achievement is its recommendation engine, which utilizes proprietary machine learning algorithms to understand user taste and deliver highly personalized content.",
+            "Features like Discover Weekly and Daily Mixes are legendary for introducing users to new artists and genres they love, driving engagement and emotional connection.",
+            "With both a free, ad-supported tier and a premium subscription, Spotify provides massive accessibility.",
+            "Premium unlocks ad-free listening, offline playback, and high-quality audio streaming.",
+            "The interface is designed for intuitive navigation, allowing users to browse by artist, album, genre, or mood.",
+            "Social features let users create and share playlists, collaborate with friends, and follow artists and podcasts for updates.",
+            "Spotify has invested heavily in podcasts and audio shows, hosting exclusive content and offering discovery tools like topic curation and transcripts.",
+            "Spotify for Artists provides analytics and promotional tools, fostering direct creator-audience relationships.",
+            "Its universal device compatibility ensures seamless access across phones, desktops, smart speakers, cars, and consoles—making Spotify the definitive source for personalized audio entertainment."
+        ]
+    },
+    {
+        "id": 12,
+        "title": "GitHub",
+        "companyName": "GitHub, Inc. (Microsoft)",
+        "image": "https://i.ibb.co.com/rGRMXBSf/Github.jpg",
+        "size": "120MB",
+        "reviews": "150K",
+        "downloads": "12M",
+        "ratingAvg": 4.8,
+        "ratings": [
+            { "name": "5 star", "count": 110000 },
+            { "name": "4 star", "count": 15000 },
+            { "name": "3 star", "count": 3000 },
+            { "name": "2 star", "count": 1200 },
+            { "name": "1 star", "count": 800 }
+        ],
+        "description": [
+            "GitHub is the world's most extensive and important developer platform, serving as the central hub for version control using Git and software collaboration.",
+            "Hosting over 400 million repositories, it supports open-source projects, enterprise codebases, and personal developer portfolios.",
+            "Its mission is to accelerate developer velocity and foster a vibrant, collaborative community.",
+            "Core functionality revolves around Repositories, Pull Requests, and Issues.",
+            "Pull Requests enable proposed changes and detailed code reviews before merging into the main branch.",
+            "Issues provide structured tracking for bugs, features, and tasks, integrating project management directly with code.",
+            "GitHub Actions offers CI/CD automation to build, test, and deploy code with every push.",
+            "GitHub Codespaces provides cloud-based development environments launched instantly from any repo.",
+            "The platform supports DevOps practices with security scanning, policy enforcement, and GitHub Advanced Security.",
+            "By unifying every stage of the software lifecycle, GitHub remains indispensable for developers and the backbone of the modern digital economy."
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Procreate",
+        "companyName": "Savage Interactive Pty Ltd",
+        "image": "https://i.ibb.co.com/RT4c6TL0/Procreate.jpg",
+        "size": "250MB",
+        "reviews": "400K",
+        "downloads": "18M",
+        "ratingAvg": 4.9,
+        "ratings": [
+            { "name": "5 star", "count": 350000 },
+            { "name": "4 star", "count": 25000 },
+            { "name": "3 star", "count": 5000 },
+            { "name": "2 star", "count": 2000 },
+            { "name": "1 star", "count": 1000 }
+        ],
+        "description": [
+            "Procreate is the industry-defining digital illustration and painting application exclusively for the iPad, offering professional-grade tools in a highly intuitive and portable interface.",
+            "It is celebrated by artists, designers, and illustrators worldwide for its blazing speed and responsiveness, which are achieved by fully leveraging the Metal graphics API and the power of the Apple Pencil.",
+            "This optimization results in virtually zero latency, making the digital drawing experience feel as fluid and natural as using traditional media.",
+            "Its Brush Library is massive, featuring hundreds of highly customizable brushes for everything from realistic oil painting and watercolor to technical inking and textured effects.",
+            "Users can easily create and share their own custom brushes, contributing to a vibrant community ecosystem.",
+            "Layering is robust, supporting blend modes, clipping masks, and group organization, which is crucial for complex artwork.",
+            "Color Dynamics allows subtle variations in hue, saturation, and lightness to be applied automatically while painting, adding incredible richness and depth to the artwork.",
+            "Time-lapse Recording automatically captures every stroke of the creative process, generating a high-definition video perfect for sharing.",
+            "StreamLine smooths and stabilizes strokes, helping artists draw perfect curves and clean lines.",
+            "Text Tool offers excellent typographical control, and the Reference Companion allows artists to keep a separate window for color picking or reference images.",
+            "By combining powerful features, a simple UI, and unmatched performance, Procreate has replaced traditional sketchbooks and desktop software for countless artists."
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Adobe Photoshop Express",
+        "companyName": "Adobe Inc.",
+        "image": "https://i.ibb.co.com/39rv0Dp4/Adobe.jpg",
+        "size": "220MB",
+        "reviews": "950K",
+        "downloads": "100M",
+        "ratingAvg": 4.5,
+        "ratings": [
+            { "name": "5 star", "count": 550000 },
+            { "name": "4 star", "count": 150000 },
+            { "name": "3 star", "count": 70000 },
+            { "name": "2 star", "count": 35000 },
+            { "name": "1 star", "count": 20000 }
+        ],
+        "description": [
+            "Adobe Photoshop Express is the powerful, streamlined version of the industry-standard photo editing software, optimized for mobile users and quick, high-quality edits.",
+            "It allows users to capture, edit, and share photos instantly, bypassing the complexity of the full desktop version while retaining Adobe’s core quality and reliability.",
+            "The app provides one-touch adjustments and filters (called 'Looks') to instantly improve lighting, color, and contrast.",
+            "Manual controls allow fine-tuning of exposure, shadows, highlights, temperature, tint, and saturation.",
+            "The Healing tool removes blemishes and distractions with precision, powered by Adobe Sensei’s AI.",
+            "Collage Maker offers layouts, backgrounds, and borders for creative image grouping.",
+            "Photoshop Express integrates with Adobe Creative Cloud, Google Photos, and Dropbox.",
+            "It supports image manipulation features like perspective correction and RAW file formats for professional editing.",
+            "Social media tools include text, graphics, and border presets optimized for various platforms.",
+            "Photoshop Express delivers core Photoshop power through a user-friendly mobile interface for stunning visual storytelling."
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Slack",
+        "companyName": "Slack Technologies, LLC (Salesforce)",
+        "image": "https://i.ibb.co.com/3mBxsJ8p/Slack.jpg",
+        "size": "130MB",
+        "reviews": "700K",
+        "downloads": "90M",
+        "ratingAvg": 4.5,
+        "ratings": [
+            { "name": "5 star", "count": 450000 },
+            { "name": "4 star", "count": 120000 },
+            { "name": "3 star", "count": 50000 },
+            { "name": "2 star", "count": 25000 },
+            { "name": "1 star", "count": 15000 }
+        ],
+        "description": [
+            "Slack is the leading channel-based messaging platform that has transformed how teams communicate and collaborate.",
+            "It organizes conversations into Channels for projects, teams, or topics, keeping information accessible and searchable.",
+            "Slack supports rich messaging, file sharing, and threaded replies to maintain organized discussions.",
+            "Its robust Search function helps users find messages, files, and links across the workspace.",
+            "Slack includes Huddles for quick audio meetings and Clips for recordable video and audio messages.",
+            "The App Directory connects Slack with tools like Google Drive, GitHub, Salesforce, and Jira for in-app task execution.",
+            "Slack Connect enables secure collaboration with external partners in shared channels, reducing email dependency.",
+            "With customizable notifications, strong security, and scalable architecture, Slack serves as the central nervous system for high-velocity organizations."
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Coursera",
+        "companyName": "Coursera, Inc.",
+        "image": "https://i.ibb.co.com/ymTsVzbC/Coursera.jpg",
+        "size": "90MB",
+        "reviews": "1.1M",
+        "downloads": "70M",
+        "ratingAvg": 4.6,
+        "ratings": [
+            { "name": "5 star", "count": 650000 },
+            { "name": "4 star", "count": 150000 },
+            { "name": "3 star", "count": 40000 },
+            { "name": "2 star", "count": 15000 },
+            { "name": "1 star", "count": 10000 }
+        ],
+        "description": [
+            "Coursera is one of the world's largest and most reputable online learning platforms, offering access to courses, specializations, professional certificates, and even full degrees from over 200 leading universities and top global companies.",
+            "The platform's mission is to provide universal access to world-class education, enabling career advancement and personal enrichment for a global audience.",
+            "Educational content is delivered via high-quality video lectures, interactive quizzes, peer-graded assignments, and hands-on projects.",
+            "Specializations group related courses into a curriculum with a Capstone Project, while Professional Certificates offer job-relevant skills in high-demand fields like IT Support and Data Analytics.",
+            "Coursera allows users to learn at their own pace with flexible deadlines and supports multiple languages through subtitles and localized content.",
+            "The mobile app enables downloading lectures and materials for offline viewing, making learning accessible anywhere.",
+            "Courses offer shareable Certificates of Completion, and the platform hosts fully accredited Master's and Bachelor's degree programs online.",
+            "Coursera’s range—from free courses to full degrees—makes it a premier destination for lifelong learning and professional development."
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Robinhood",
+        "companyName": "Robinhood Markets, Inc.",
+        "image": "https://i.ibb.co.com/LXFy2kqW/Robinhood.jpg",
+        "size": "170MB",
+        "reviews": "3M",
+        "downloads": "20M",
+        "ratingAvg": 4.1,
+        "ratings": [
+            { "name": "5 star", "count": 900000 },
+            { "name": "4 star", "count": 600000 },
+            { "name": "3 star", "count": 500000 },
+            { "name": "2 star", "count": 400000 },
+            { "name": "1 star", "count": 600000 }
+        ],
+        "description": [
+            "Robinhood is a pioneering financial brokerage app that disrupted the industry by offering commission-free trading of stocks, ETFs, and options.",
+            "Its goal is to democratize finance by making investing accessible to younger and first-time investors.",
+            "The app features a mobile-first design with clean visuals and gamified elements like animations and celebratory trade feedback.",
+            "Users can trade fractional shares, cryptocurrencies, and options, lowering the barrier to entry for investing.",
+            "Robinhood Gold offers margin investing and higher interest on uninvested cash through a premium subscription.",
+            "Security includes SIPC insurance and standard protections for brokerage accounts.",
+            "Despite controversies over trade restrictions and outages, Robinhood remains influential and continues to evolve with features like IRAs and educational tools.",
+            "It aims to provide a full suite of financial services while maintaining a user-friendly experience."
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Evernote",
+        "companyName": "Evernote Corporation",
+        "image": "https://i.ibb.co.com/MDMDsfMD/Evernote.jpg",
+        "size": "150MB",
+        "reviews": "1.5M",
+        "downloads": "150M",
+        "ratingAvg": 4.0,
+        "ratings": [
+            { "name": "5 star", "count": 400000 },
+            { "name": "4 star", "count": 400000 },
+            { "name": "3 star", "count": 300000 },
+            { "name": "2 star", "count": 220000 },
+            { "name": "1 star", "count": 180000 }
+        ],
+        "description": [
+            "Evernote is a powerful application for note-taking, organizing, and archiving information from virtually any source.",
+            "Often called a 'digital external brain,' it excels at capturing and searching diverse content types including text, images, PDFs, audio, and handwritten notes.",
+            "Its structure uses Notes, Notebooks, and Stacks for hierarchical organization.",
+            "Evernote’s standout feature is its search technology, using OCR to make text inside images and documents searchable.",
+            "Cross-platform sync ensures notes are instantly available across desktop, mobile, and web.",
+            "The Web Clipper browser extension lets users save articles and web content directly into Notebooks with source links.",
+            "Collaboration features allow sharing and team editing of notes and notebooks.",
+            "Despite competition, Evernote remains a top choice for users needing long-term, reliable knowledge capture and retrieval."
+        ]
+    },
+    {
+  "id": 19,
+  "title": "MetaMask",
+  "companyName": "ConsenSys Software Inc.",
+  "image": "https://i.ibb.co.com/21N26cC4/MetaMask.jpg",
+  "size": "145MB",
+  "reviews": "500K",
+  "downloads": "30M",
+  "ratingAvg": 4.5,
+  "ratings": [
+    { "name": "5 star", "count": 300000 },
+    { "name": "4 star", "count": 100000 },
+    { "name": "3 star", "count": 40000 },
+    { "name": "2 star", "count": 20000 },
+    { "name": "1 star", "count": 10000 }
+  ],
+  "description": [
+    "MetaMask is the leading cryptocurrency wallet and gateway to decentralized applications (dApps) on the Ethereum blockchain and other compatible networks.",
+    "It functions as both a secure wallet for holding Ethereum and various ERC-20 tokens (and now many other EVM-compatible chains like Polygon and Binance Smart Chain) and a browser extension/mobile app that injects Web3 functionality into regular web browsers.",
+    "This capability allows users to seamlessly and securely interact with the burgeoning world of Decentralized Finance (DeFi), NFTs, and blockchain gaming.",
+    "At its core, MetaMask provides the user with control over their private keys (via a Seed Phrase), meaning the user—and not the platform—has true ownership of their assets.",
+    "It is a non-custodial wallet, which is a crucial distinction in the crypto space.",
+    "The interface is designed to simplify the complex process of blockchain interaction. When a user visits a dApp (like OpenSea or Uniswap), MetaMask pops up to request a transaction signature, clearly outlining the fees (gas) and the action being taken, providing an essential security layer for transaction verification.",
+    "Key functionalities include token swapping directly within the wallet interface, allowing users to exchange one crypto asset for another without having to navigate a separate exchange.",
+    "It also allows for easy management of multiple accounts and the ability to switch between different blockchain networks (Mainnet, testnets, or custom RPCs) instantly.",
+    "Security is paramount; users must secure their Seed Phrase offline and use strong passwords.",
+    "MetaMask has become the foundational tool for anyone serious about engaging with the decentralized internet, serving as the essential bridge that connects the user's secure crypto assets to the decentralized Web3 ecosystem."
+  ]
+},
+    {
+        "id": 20,
+        "title": "Google Drive",
+        "companyName": "Google LLC",
+        "image": "https://i.ibb.co.com/Q3Kw06bJ/Google-Drive.jpg",
+        "size": "115MB",
+        "reviews": "10M",
+        "downloads": "5B",
+        "ratingAvg": 4.4,
+        "ratings": [
+            { "name": "5 star", "count": 55504500 },
+            { "name": "4 star", "count": 2255500 },
+            { "name": "3 star", "count": 1505000 },
+            { "name": "2 star", "count": 750000 },
+            { "name": "1 star", "count": 500000 }
+        ],
+        "description": [
+            "Google Drive is the cornerstone of cloud storage and file synchronization, offering a seamless and integrated solution for storing, sharing, and accessing files from any device. As a key component of the Google ecosystem, its utility is massively enhanced by its deep connection with Google Workspace—Docs, Sheets, Slides, etc.—enabling real-time collaborative editing directly within the cloud environment. This integration has made Drive the preferred solution for collaborative academic and business environments globally.",
+
+            "The platform provides a generous amount of free storage and highly affordable tiered plans for individuals and enterprises. Beyond simple storage, its power lies in its robust sharing and permissions model. Users can share files or folders with specific individuals, set view-only, comment-only, or full editing access, and even set expiration dates on sharing links for enhanced security. The powerful AI-driven search function is a major differentiator; it can identify objects and text within images and PDFs, find files based on their content, owner, or file type—ensuring that users can quickly locate any stored item, even if they forgot its name.",
+
+            "Drive supports the storage of virtually any file type, from videos and photos to CAD drawings and code. The desktop and mobile applications feature offline access, allowing users to designate files for local synchronization and editing when an internet connection is unavailable, with changes automatically updating when back online. Furthermore, Drive is an open platform, supporting integrations with hundreds of third-party apps that can directly create, edit, or manage files stored in the cloud.",
+
+            "By providing a secure, reliable, and highly collaborative environment for file storage and document creation, Google Drive has become an essential tool for digital life—serving as the trusted, central repository for both personal and professional data."
+        ]
+    }
 ]
