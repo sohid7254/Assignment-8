@@ -2,7 +2,7 @@ import React from 'react';
 
 const LoadingAnimation = ({count = 8}) => {
     return (
-        <div className="grid grid-cols-1 md:grid--cols-3 lg:grid-cols-4 gap-4 p-3">
+        <div className="max-w-[1200px] mx-auto grid grid-cols-1 md:grid--cols-3 lg:grid-cols-4 gap-4 p-3">
             {Array.from({ length: count }).map((__, i) => (
                 <div key={i} className="flex flex-col gap-4">
                     <div className="skeleton h-32 w-full"></div>
