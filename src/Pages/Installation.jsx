@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import DemoPic from "../assets/demo-app (1).webp"
 import downPic from "../assets/icon-downloads.png"
 import ratPic from "../assets/icon-ratings.png"
 import AppNotFound from '../Components/AppNotFound/AppNotFound';

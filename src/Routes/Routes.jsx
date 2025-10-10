@@ -5,32 +5,43 @@ import Apps from "../Pages/Apps";
 import AppNotFound from "../Components/AppNotFound/AppNotFound";
 import AppDetails from "../Pages/AppDetails";
 import Installation from "../Pages/Installation";
+import ErrorPage from "../Components/ErrorPage/ErrorPAge";
+import loader from "../Hooks/loader";
 
 const router = createBrowserRouter([
     {
         path: "/",
-        Component: MainLayout,
+        element: <MainLayout/>,
         hydrateFallbackElement: <h1>Loading...</h1>,
         children: [
             {
                 index: true,
-                Component: Home,
+                element: <Home/>,
+                loader: loader,
+                
             },
             {
                 path:"/apps",
-                Component: Apps,
+                element: <Apps/>,
+                loader: loader,
             },
             {
                 path:"/not-found",
-                Component: AppNotFound,
+                element: <AppNotFound/>,
             },
             {
                 path:"/appDetails/:id",
-                Component: AppDetails,
+                element: <AppDetails/>,
             },
             {
                 path:"/installation",
-                Component:Installation
+                element:<Installation/>,
+                loader: loader,
+
+            },
+            {
+                path:"*",
+                element: <ErrorPage/>,
             }
         ]
     }

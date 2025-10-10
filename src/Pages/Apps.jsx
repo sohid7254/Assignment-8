@@ -1,16 +1,30 @@
 import React, { useEffect, useState } from 'react';
 import useApps from '../Hooks/useApps';
 import AppsCard from '../Components/AppsCard/AppsCard';
-import AppNotFound from '../Components/AppNotFound/AppNotFound';
 import { useNavigate } from 'react-router';
 import LoadingAnimation from '../Components/LoadingAnimation/LoadingAnimation';
 
 const Apps = () => {
     const navigate = useNavigate();
     const { apps, loading } = useApps();
+
     const [search, setSearch] = useState('')
+    const [searchLoading, setSearchLoading] = useState(false)
+
     const term = search.trim().toLocaleLowerCase()
     const searchedApps = term?apps.filter((app) => app.title.toLocaleLowerCase().includes(term)):apps
+
+    useEffect(()=> {
+        if(search){
+            setSearchLoading(true)
+            const timer = setTimeout(()=>{
+                setSearchLoading(false);
+            }, 500)
+            return () => clearTimeout(timer)
+        }else {
+            setSearchLoading(false)
+        }
+    },[search])
 
     useEffect(() => {
         if(term && searchedApps.length === 0){
@@ -40,8 +54,8 @@ const Apps = () => {
                     <input value={search} onChange={(e) => setSearch(e.target.value)} type="search" placeholder="Search App" />
                 </label>
             </div>
-            {loading ? (
-                <LoadingAnimation count={20}/>
+            {loading || searchLoading? (
+                <LoadingAnimation/>
             ) : (
                 <div className=" grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4 p-3 my-4">
                     {searchedApps.map((app) => (

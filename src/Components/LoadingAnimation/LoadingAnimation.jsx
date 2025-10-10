@@ -1,17 +1,11 @@
 import React from 'react';
 
-const LoadingAnimation = ({count = 8}) => {
+const LoadingAnimation = () => {
     return (
-        <div className="max-w-[1200px] mx-auto grid grid-cols-1 md:grid--cols-3 lg:grid-cols-4 gap-4 p-3">
-            {Array.from({ length: count }).map((__, i) => (
-                <div key={i} className="flex flex-col gap-4">
-                    <div className="skeleton h-32 w-full"></div>
-                    <div className="skeleton h-4 w-28"></div>
-                    <div className="skeleton h-4 w-full"></div>
-                    <div className="skeleton h-4 w-full"></div>
-                </div>
-            ))}
+        <div className="flex items-center justify-center h-[250px] bg-gray-100">
+            <span className="loading loading-xl loading-bars text-primary scale-400"></span>
         </div>
+        
     );
 };
 
