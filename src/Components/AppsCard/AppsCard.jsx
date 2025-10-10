@@ -9,7 +9,7 @@ const AppsCard = ({app}) => {
     const { image, title, downloads, ratingAvg, id } = app;
     return (
     <Link to={`/appDetails/${id}`}>
-        <div className=" rounded-lg shadow-md overflow-hidden border border-gray-200 hover:shadow-lg transition-shadow duration-300 p-3">
+        <div className=" rounded-lg shadow-md overflow-hidden border border-gray-200 hover:scale-102 hover:shadow-lg transition-shadow ease-in-out p-3">
             <div>
                 <img src={image} alt="" className="overflow-hidden object-cover w-full h-[250px] rounded-lg" />
             </div>
