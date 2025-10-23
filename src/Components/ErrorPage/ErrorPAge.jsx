@@ -5,6 +5,7 @@ import { Link } from 'react-router';
 const ErrorPage = () => {
     return (
         <div className="max-w-[1200px] mx-auto">
+            
             <div className="space-y-5 mt-10">
                 <div className="flex justify-center items-center">
                     <img src={pageErr} alt="AppError" className="w-70" />

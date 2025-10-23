@@ -15,12 +15,13 @@ const Home = () => {
             <Banner />
             <HeroState />
             <div>
+                <title>Hero-App /Home</title>
                 <div className="text-center space-y-3 my-6 px-3">
                     <h1 className="text-4xl font-semibold">Trending Apps</h1>
                     <p className="text-sm text-gray-400">Explore All Trending Apps on the Market developed by Us</p>
                 </div>
                 {loading ? (
-                    <LoadingAnimation/>
+                    <LoadingAnimation />
                 ) : (
                     <div className="max-w-[1200px] mx-auto grid grid-cols-1 md:grid--cols-3 lg:grid-cols-4 gap-4 p-3 my-4">
                         {featuredApps.map((app) => (

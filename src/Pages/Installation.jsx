@@ -61,6 +61,7 @@ const Installation = () => {
     }
     return (
         <div className="max-w-[1200px] mx-auto">
+            <title>Hero-App /Installation</title>
             <div>
                 <div className="text-center my-6 space-y-2 px-3">
                     <h1 className="md:text-3xl lg:text-3xl text-2xl font-bold">Your Installed Apps</h1>
@@ -82,14 +83,11 @@ const Installation = () => {
 
                 <div className="space-y-3 px-4">
                     {sortInstalled.map((p) => (
-
                         <div className="flex flex-col md:flex-row items-center justify-between bg-white shadow-md rounded-lg p-4 w-full min-h-[100px] my-3 space-y-4 md:space-y-0 md:space-x-4">
-                            
                             <div className="w-20 h-20 bg-gray-300 rounded-md flex-shrink-0 overflow-hidden">
                                 <img src={p.image} alt="" className="w-full h-full object-cover" />
                             </div>
 
-                            
                             <div className="flex-1 min-w-0">
                                 <h2 className="text-base md:text-lg font-semibold text-gray-800">{p.title}</h2>
                                 <div className="flex flex-wrap items-center gap-3 mt-1 text-sm">
@@ -105,7 +103,6 @@ const Installation = () => {
                                 </div>
                             </div>
 
-                            
                             <button onClick={() => handleUnstalle(p.id)} className="bg-green-500 hover:bg-green-600 text-white text-sm md:text-base font-semibold px-4 py-2 rounded w-full md:w-auto">
                                 Uninstall
                             </button>

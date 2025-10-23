@@ -53,6 +53,7 @@ const AppDetails = () => {
 
     return (
         <div className="max-w-[1200px] mx-auto my-4">
+            <title>{title}</title>
             <div className="my-10">
                 <div className="card ">
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-3 px-4">
