@@ -2,6 +2,10 @@
 
 A modular, responsive React app for managing  applications with install/uninstall logic, dynamic routing, and sweet UI feedback — built with accessibility, polish, and production-quality data.
 
+![Screenshot]()
+## 🚀 Live Demo
+
+🔗 [Live Site](https://heroapp-assignment-8.netlify.app/)
 ---
 
 ## 📝 Description
@@ -37,3 +41,23 @@ This project was built with iterative troubleshooting, additive logic, and a dee
 
 
 ---
+## Dependencies
+```bash
+"@fontsource/inter": "^5.2.8",
+    "@tailwindcss/vite": "^4.1.14",
+    "axios": "^1.12.2",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-icons": "^5.5.0",
+    "react-router": "^7.9.3",
+    "recharts": "^3.2.1",
+    "sweetalert": "^2.1.2",
+    "tailwindcss": "^4.1.14"
+```
+ ## Run locally
+ ```bash
+ git clone https://github.com/sohid7254/Assignment-8.git
+cd Assignment-8
+npm install
+npm run dev
+```
