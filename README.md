@@ -2,7 +2,7 @@
 
 A modular, responsive React app for managing  applications with install/uninstall logic, dynamic routing, and sweet UI feedback — built with accessibility, polish, and production-quality data.
 
-![Screenshot]()
+![Screenshot](https://github.com/sohid7254/Assignment-8/blob/main/src/assets/HeroApp.png)
 ## 🚀 Live Demo
 
 🔗 [Live Site](https://heroapp-assignment-8.netlify.app/)
